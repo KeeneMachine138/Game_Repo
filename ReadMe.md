@@ -6,3 +6,5 @@ Purpose of Project:
   - Become more skilled using python
   - Create a game 
 
+Contributors of Project:
+
